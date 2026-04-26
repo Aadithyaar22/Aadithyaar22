@@ -2,7 +2,7 @@
 
 # Aadithya A R
 
-**AI/ML Engineer · Full Stack Developer**
+**AI/ML Engineer**
 
 *Building the future with code & caffeine ☕*
 
